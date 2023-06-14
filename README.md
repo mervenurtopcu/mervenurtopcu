@@ -1,5 +1,8 @@
 <h1 align="left">Hi 👋, I'm Mervenur</h1>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mervenurtopcu&label=Profile%20views&color=0e75b6&style=flat" alt="mervenurtopcu" /> </p>
+
+
 - 🌱 I’m currently learning **Flutter**
 
 - 💬 Ask me about **Kotlin / Java / Flutter**
